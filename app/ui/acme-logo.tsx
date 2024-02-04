@@ -7,7 +7,7 @@ export default function AcmeLogo() {
       className={`${lusitana.className} flex flex-row items-center justify-center leading-none text-white`}
     >
       <ClipboardDocumentCheckIcon className="h-12 w-12 rotate-[5deg]" />
-      <p className="text-[44px]">Traqq</p>
+      <p className="text-[44px] italic">Traqq</p>
     </div>
   );
 }
